@@ -1,7 +1,7 @@
 # Hüseyin ÇİFTÇİ - *Junior FrontEnd Developer*
 ## 👨‍💻 About Me
 
-"Hello! I'm Huseyin, a frontend developer with 2 years of experience and still going strong. Skilled in HTML, CSS, JavaScript and TypeScript, I specialize in crafting user-friendly web applications using modern frameworks like Angular. Check out my GitHub for projects and code samples. Let's connect!"
+"Hello! I'm Huseyin, a frontend developer with 1 years of experience and still going strong. Skilled in HTML, CSS, JavaScript and TypeScript, I excel in crafting user-friendly web applications using modern frameworks like Angular. Check out my GitHub for projects and code samples. Let's connect!"
 
 ## 💻 Programming Expertise
 
