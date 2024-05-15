@@ -28,7 +28,7 @@
 
 ### Pempati 
 <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
-<a href="https://www.pempati.com" >
+<a href="https://www.pempati.com" target="_blank">
   <img src="https://pempati.com/assets/img/logo.png" alt="Pempati.com" width="400"/>  </div>  
 </a>
 
