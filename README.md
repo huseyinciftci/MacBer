@@ -29,7 +29,7 @@
 ### Pempati 
 <div style="background-color: white; padding: 10px; border-radius: 5px; text-align: center;">  
 <a href="https://www.pempati.com" target="_blank">
-  <img src="https://pempatifiles.blob.core.windows.net/photo-logo/16cc3cf0-bb8d-4978-a5ec-eecc171f7620.png" alt="Pempati.com" width="400"/>  </div>  
+  <img src="https://pempatifiles.blob.core.windows.net/photo-logo/530f4e30-cf78-4348-9833-eefc10e49432.png" alt="Pempati.com" width="400"/>  </div>  
 </a>
 
 Pempati.com is a cutting-edge e-commerce platform catering to mothers, babies, and children. I am actively contributing to the following aspects of the project:
